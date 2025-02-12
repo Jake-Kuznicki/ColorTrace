@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@types/node": "^22.13.1"
+  },
+  "devDependencies": {
+    "@types/sharp": "^0.31.1",
+    "sharp": "^0.33.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "name": "colortrace",
+  "version": "1.0.0",
+  "description": "A repo to trace color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
