@@ -1,5 +1,4 @@
-//Create an app that is able to get any file schematic and read the Key then return a colored version of the schematic that matches the Key and is perfect.
-
+//ColorTrace an app to trace color
 import { join } from 'path';
 import sharp from 'sharp';
 
